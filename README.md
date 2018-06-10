@@ -26,7 +26,7 @@ This example React application demonstrates:
   **https://account-d.docusign.com/** and one for
   **https://demo.docusign.net/**
 * During production: Two or more CORS proxy gateways, one for
-  **https://account-d.docusign.com/** and one or more
+  **https://account.docusign.com/** and one or more
   for the different production platforms used by the accounts
   of the application's DocuSign users.
   Eg **https://www.docusign.net/**, **https://na2.docusign.net/**,
