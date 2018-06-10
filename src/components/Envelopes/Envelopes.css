@@ -1,0 +1,10 @@
+.subject {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.status, .sent {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: darkgray;
+}
