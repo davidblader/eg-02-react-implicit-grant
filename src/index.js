@@ -32,7 +32,7 @@ const alertOptions = {
     position: "top center"
   };
   
-// Set basename property if this app is not located at the server's root.
+// Set the BrowserRouter's basename property if this app is not located at the server's root.
 // See https://reacttraining.com/react-router/web/api/BrowserRouter/basename-string
 const app = (
     <Provider store={store}>

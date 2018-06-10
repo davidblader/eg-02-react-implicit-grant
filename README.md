@@ -79,6 +79,10 @@ OAuth Implicit Grant flow:
   This URL is also configured in the dsConfig.js file or the
   environment variables file.
 
+  Note: If the application is not located at your server's
+  root directory, then you will need to set the
+  BrowserRouter's basename property in the index.js file.
+
 ## Running the application
 
 ### Development mode
