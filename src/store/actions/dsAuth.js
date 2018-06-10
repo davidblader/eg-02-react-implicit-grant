@@ -284,6 +284,7 @@ const newAuthentication = () => {
 }
 
 export const newAuthenticationRedirected = () => {
+    localStorage.setItem('authRedirect', null);
     return {
         type: actionTypes.DS_AUTH_NEW_AUTHENTICATION_REDIRECTED
     }
