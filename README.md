@@ -4,6 +4,9 @@ Repository: [eg-02-react-implicit-grant](https://github/docusign/eg-02-react-imp
 
 ## Introduction
 
+See the DocuSign Developer [blog post](https://www.docusign.com/blog/dsdev-building-spas-cors-react-part-3/)
+for more information about this example.
+
 This example React application demonstrates:
 
 * Using the
